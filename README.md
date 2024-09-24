@@ -5,4 +5,4 @@
 - Users can play their friends anonymously via link.
 - Tech stack: React, Node.js, Express, Socket.IO, WebRTC
 
-Link to the backend: [Backend](https://github.com/Harsh-141cmd/Chesu-no-Kai-Backend)
+Link to the backend: [Backend](https://github.com/desmonub/Chesu-no-Kai-backend)
